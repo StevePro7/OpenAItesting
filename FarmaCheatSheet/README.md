@@ -33,8 +33,7 @@ pip install gymnasium
 
 [Box2D](https://gymnasium.farama.org/environments/box2d)
 ```
-pip install -r requirements.txt
-pip install --upgrade pip
+pip install gymnasium
 pip install Box2D
 ```
 
