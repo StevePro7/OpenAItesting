@@ -45,8 +45,6 @@ pip install mujoco==2.3.0
 
 [Atari](https://gymnasium.farama.org/environments/atari)
 ```
-pip install -r requirements.txt
-pip install --upgrade pip
 pip install gymnasium[atari]
 pip install gymnasium[accept-rom-license]
 ```
