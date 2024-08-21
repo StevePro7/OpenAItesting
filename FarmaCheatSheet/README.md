@@ -39,8 +39,7 @@ pip install Box2D
 
 [muJoCo](https://gymnasium.farama.org/environments/mujoco)
 ```
-pip install -r requirements.txt
-pip install --upgrade pip
+pip install gymnasium
 pip install mujoco==2.3.0
 ```
 
