@@ -1,35 +1,50 @@
 ##### README.md
 ###### 15-Sep-2024
 
-New project
-FarmaRepo
-~/GitHub/StevePro9/PythonSetup/NewOpenAI
-
+Launch PyCharm | New project | FarmaCheatSheet
+```
+FarmaCheatSheet
+~/GitHub/SteveProXNA/OpenAItesting/
 source bin activate
+```
+Copy Farma Foundation __requirements.txt__ from [here](https://github.com/Farama-Foundation/Gymnasium/blob/main/docs/requirements.txt).
 
-copy FF docs requirements.txt local
-https://github.com/Farama-Foundation/Gymnasium/blob/main/docs/requirements.txt
 
+[Pre-Requisites](https://gymnasium.farama.org)
+```
+pip install -r requirements.txt
+pip install --upgrade pip
+```
 
-[Pre-Requisites](https://gymnasium.farama.org) | [ClassicControl](https://gymnasium.farama.org/environments/classic_control) | [ToyText](https://gymnasium.farama.org/environments/toy_text)
+[ClassicControl](https://gymnasium.farama.org/environments/classic_control)
 ```
 pip install gymnasium
+```
+
+[ToyText](https://gymnasium.farama.org/environments/toy_text)
+```
 pip install -r requirements.txt
 pip install --upgrade pip
 ```
 
 [Box2D](https://gymnasium.farama.org/environments/box2d)
 ```
+pip install -r requirements.txt
+pip install --upgrade pip
 pip install Box2D
 ```
 
 [muJoCo](https://gymnasium.farama.org/environments/mujoco)
 ```
+pip install -r requirements.txt
+pip install --upgrade pip
 pip install mujoco==2.3.0
 ```
 
 [Atari](https://gymnasium.farama.org/environments/atari)
 ```
+pip install -r requirements.txt
+pip install --upgrade pip
 pip install gymnasium[atari]
 pip install gymnasium[accept-rom-license]
 ```
