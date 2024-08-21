@@ -23,8 +23,7 @@ pip install gymnasium
 
 [ToyText](https://gymnasium.farama.org/environments/toy_text)
 ```
-pip install -r requirements.txt
-pip install --upgrade pip
+pip install gymnasium
 ```
 
 [Box2D](https://gymnasium.farama.org/environments/box2d)
