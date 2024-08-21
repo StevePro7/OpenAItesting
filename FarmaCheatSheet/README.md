@@ -4,11 +4,16 @@
 Launch PyCharm | New project | FarmaCheatSheet
 ```
 FarmaCheatSheet
-~/GitHub/SteveProXNA/OpenAItesting/
+~/GitHub/SteveProXNA/OpenAItesting
 source bin activate
 ```
-Copy Farma Foundation __requirements.txt__ from [here](https://github.com/Farama-Foundation/Gymnasium/blob/main/docs/requirements.txt).
+IMPORTANT: if Python Interpreter not set and/or Virtual Environment not available then:
+```
+File | Settings... | Project: Python Interpreter | Add Interpreter | Add Local Interpreter
+source bin activate
+```
 
+Copy Farma Foundation __requirements.txt__ from [here](https://github.com/Farama-Foundation/Gymnasium/blob/main/docs/requirements.txt).
 
 [Pre-Requisites](https://gymnasium.farama.org)
 ```
