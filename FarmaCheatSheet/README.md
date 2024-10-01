@@ -1,6 +1,8 @@
 ##### README.md
 ###### 15-Sep-2024
 
+Code samples for StevePro Studios blog post [OpenAI Farma Cheat Sheet](https://steveproxna.blogspot.com/2024/09/openai-farma-cheat-sheet.html)
+
 Launch PyCharm | New project | FarmaCheatSheet
 ```
 FarmaCheatSheet
