@@ -29,7 +29,8 @@ def bar(file, extn: str):
     print(f"{file} end")
 
 if __name__ == '__main__':
-    #bar("AlienSyndrome-Sms", "sms")
-    foo("Sms", "sms")
+    # bar("AlienSyndrome-Sms", "sms")
+    # foo("Sms", "sms")
+    foo("Genesis", "md")
 
 
