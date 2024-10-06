@@ -3,7 +3,7 @@
 
 Code samples for StevePro Studios blog post [OpenAI Retro Cheat Sheet](https://steveproxna.blogspot.com/2024/11/openai-retro-cheat-sheet.html)
 
-Launch PyCharm | New project | RetroCheatSheet | examples
+Launch PyCharm | New project | RetroCheatSheet
 ```
 RetroCheatSheet
 ~/GitHub/SteveProXNA/OpenAItesting
