@@ -1,6 +1,5 @@
 import retro
 
-
 def run_game(name: str) -> None:
     try:
         env = retro.make(game=name)
